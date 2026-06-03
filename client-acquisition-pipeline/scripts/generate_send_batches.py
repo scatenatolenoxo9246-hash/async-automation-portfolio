@@ -45,6 +45,22 @@ def contact_route(row: dict[str, str]) -> str:
     return row.get("contact_email") or row.get("contact_page") or row.get("website") or "Needs research"
 
 
+def send_method(row: dict[str, str]) -> str:
+    if row.get("contact_email"):
+        return "Gmail"
+    return "Website/contact form"
+
+
+def signed_message(message: str) -> str:
+    signature = """Best,
+scatenatolenoxo9246-hash
+Async Automation Developer
+Portfolio: https://scatenatolenoxo9246-hash.github.io/async-automation-portfolio/"""
+    if "Portfolio: https://scatenatolenoxo9246-hash.github.io/async-automation-portfolio/" in message:
+        return message
+    return f"{message.rstrip()}\n\n{signature}"
+
+
 def write_batch(filename: str, lead_ids: list[str]) -> None:
     drafts = load_draft_module()
     leads = load_leads()
@@ -70,24 +86,37 @@ def write_batch(filename: str, lead_ids: list[str]) -> None:
             row.get("segment", ""),
             row.get("service_angle", ""),
         )
-        message = row.get("outreach_message") or drafts.message_for(row)
+        message = signed_message(row.get("outreach_message") or drafts.message_for(row))
+        route = contact_route(row)
         lines.extend(
             [
                 f"## {index}. {row['company']}",
                 "",
                 f"- Lead ID: {lead_id}",
                 f"- Score: {row['score']}",
-                f"- Contact route: `{contact_route(row)}`",
+                f"- Send method: {send_method(row)}",
+                f"- Contact route: `{route}`",
                 f"- Source: `{row['source_url']}`",
                 f"- Angle: {row['service_angle']}",
                 "",
-                "Subject:",
+                "Copy this email:",
+                "",
+                "```text",
+                f"To: {route}",
+                f"Subject: {subject}",
+                "",
+                "Body:",
+                "",
+                message,
+                "```",
+                "",
+                "Subject only:",
                 "",
                 "```text",
                 subject,
                 "```",
                 "",
-                "Message:",
+                "Body only:",
                 "",
                 "```text",
                 message,
