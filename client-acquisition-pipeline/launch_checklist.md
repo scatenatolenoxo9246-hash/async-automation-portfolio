@@ -16,18 +16,13 @@ Open `user_profile.md` and replace:
 
 If LinkedIn or GitHub does not exist yet, leave it as `not ready`.
 
-## Step 2: Portfolio placeholder cleanup
+## Step 2: Portfolio status
 
-Open:
+Portfolio is already published:
 
-`/Users/apple/Documents/New project/overseas_ai_automation_portfolio/portfolio-site/index.html`
-
-Replace:
-
-- `Your Name`
-- `your.email@gmail.com`
-- `https://github.com/your-github-username`
-- `https://www.linkedin.com/in/your-linkedin-slug/`
+- Portfolio page: `https://scatenatolenoxo9246-hash.github.io/async-automation-portfolio/`
+- GitHub repo: `https://github.com/scatenatolenoxo9246-hash/async-automation-portfolio`
+- Contact email: `scatenatolenoxo9246@gmail.com`
 
 ## Step 3: First lead batch
 

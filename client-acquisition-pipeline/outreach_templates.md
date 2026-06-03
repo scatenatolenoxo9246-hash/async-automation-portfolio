@@ -127,7 +127,7 @@ Sure. Here are three short examples:
 2. Sales lead follow-up automation: lead scoring, next actions, and email draft generation.
 3. Support FAQ assistant prototype: searchable FAQ answers with handoff notes.
 
-Portfolio: [portfolio link]
+Portfolio: https://scatenatolenoxo9246-hash.github.io/async-automation-portfolio/
 
 If helpful, I can also suggest a small test task based on one workflow from your current client work.
 ```

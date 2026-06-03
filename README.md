@@ -4,14 +4,13 @@ This repository is a publish-ready portfolio and client acquisition kit for over
 
 ## Live Portfolio
 
-The portfolio homepage is `index.html`. It can be published directly with GitHub Pages from the repository root.
+The portfolio is published with GitHub Pages:
 
-Before publishing, replace placeholders in `index.html`:
+https://scatenatolenoxo9246-hash.github.io/async-automation-portfolio/
 
-- `Your Name`
-- `your.email@gmail.com`
-- `https://github.com/your-github-username`
-- `https://www.linkedin.com/in/your-linkedin-slug/`
+Contact email shown on the site:
+
+`scatenatolenoxo9246@gmail.com`
 
 ## Case Studies
 

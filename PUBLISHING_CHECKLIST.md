@@ -1,68 +1,30 @@
 # Publishing Checklist
 
-This repository is ready to publish after the user provides the account and identity details below.
+This repository has been published.
 
-## Information needed from user
+## Published links
 
-Required:
-
-- GitHub username
-- Repository name
-- Repository visibility: public or private
-- English display name for the portfolio
-- Contact email shown on the portfolio
-
-Optional but recommended:
-
-- GitHub profile URL
-- LinkedIn profile URL
-- Whether GitHub Pages should be enabled
-- Preferred portfolio URL style:
-  - GitHub Pages repo site: `https://USERNAME.github.io/REPO_NAME/`
-  - Custom domain later
+- Repository: `https://github.com/scatenatolenoxo9246-hash/async-automation-portfolio`
+- Portfolio: `https://scatenatolenoxo9246-hash.github.io/async-automation-portfolio/`
+- Contact email: `scatenatolenoxo9246@gmail.com`
 
 ## Local Git setup needed
 
-Current machine status before publishing:
+Current machine status:
 
-- GitHub CLI `gh` is not installed.
-- Git user name is not configured in this repository yet.
-- Git user email is not configured in this repository yet.
-- No remote origin is configured yet.
+- GitHub CLI `gh` is installed locally under `/Users/apple/Documents/New project/tools/gh_2.93.0_macOS_arm64/bin/gh`.
+- GitHub CLI is authenticated as `scatenatolenoxo9246-hash`.
+- Git user name is configured in this repository.
+- Git user email is configured in this repository.
+- Remote origin is configured.
 
-Recommended path:
+## Still useful to customize later
 
-1. Install GitHub CLI.
-2. Run `gh auth login`.
-3. Provide the GitHub username, repo name, and visibility.
-4. Set local Git identity:
+Edit `client-acquisition-pipeline/user_profile.md` when ready:
 
-```bash
-git config user.name "YOUR_NAME"
-git config user.email "YOUR_EMAIL"
-```
-
-5. Commit this clean repo.
-6. Create/push the GitHub repository.
-7. Enable GitHub Pages from the `main` branch root.
-
-## Files to customize before publishing
-
-Edit `index.html`:
-
-- `Your Name`
-- `your.email@gmail.com`
-- `https://github.com/your-github-username`
-- `https://www.linkedin.com/in/your-linkedin-slug/`
-
-Edit `client-acquisition-pipeline/user_profile.md`:
-
-- display name
-- Gmail
-- time zone
 - technical stack
 - availability
-- portfolio/GitHub/LinkedIn links
+- LinkedIn link
 - first-task pricing
 
 ## Validation already performed
