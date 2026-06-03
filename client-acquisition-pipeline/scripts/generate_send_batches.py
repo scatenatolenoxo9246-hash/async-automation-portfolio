@@ -64,12 +64,17 @@ Portfolio: https://scatenatolenoxo9246-hash.github.io/async-automation-portfolio
 def write_batch(filename: str, lead_ids: list[str]) -> None:
     drafts = load_draft_module()
     leads = load_leads()
+    selected_leads = [leads[lead_id] for lead_id in lead_ids]
+    contacted_count = sum(1 for row in selected_leads if row.get("status") == "contacted")
+    pending_count = len(selected_leads) - contacted_count
     lines = [
         f"# {filename.replace('_', ' ').replace('.md', '').title()}",
         "",
-        "No messages have been sent. This is a copy/paste-ready queue for the user's real Gmail, LinkedIn, or website contact forms.",
+        "This is a copy/paste-ready sending queue and status log for the user's real Gmail, LinkedIn, or website contact forms.",
         "",
-        "Recommended use: send 5 messages per day at most. Keep the rest for tomorrow or after replies.",
+        f"Current batch status: {contacted_count} contacted, {pending_count} not contacted.",
+        "",
+        "Recommended use: send only leads whose `Current status` is `not_contacted`, up to 5 messages per day. Keep the rest for tomorrow or after replies.",
         "",
         "After sending any lead, update `lead_tracker.csv`:",
         "",
@@ -94,10 +99,24 @@ def write_batch(filename: str, lead_ids: list[str]) -> None:
                 "",
                 f"- Lead ID: {lead_id}",
                 f"- Score: {row['score']}",
+                f"- Current status: {row.get('status') or 'not_contacted'}",
                 f"- Send method: {send_method(row)}",
                 f"- Contact route: `{route}`",
                 f"- Source: `{row['source_url']}`",
                 f"- Angle: {row['service_angle']}",
+            ]
+        )
+        if row.get("status") == "contacted":
+            lines.extend(
+                [
+                    f"- Last touch date: {row.get('last_touch_date')}",
+                    f"- Next follow-up date: {row.get('next_followup_date')}",
+                    f"- Next action: {row.get('next_action')}",
+                    "- Do not resend this first-touch email.",
+                ]
+            )
+        lines.extend(
+            [
                 "",
                 "Copy this email:",
                 "",
