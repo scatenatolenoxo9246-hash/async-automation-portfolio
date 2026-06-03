@@ -15,10 +15,10 @@ def clean(value: str | None) -> str:
     return (value or "").strip()
 
 
-def first_name(contact_name: str) -> str:
+def salutation(contact_name: str) -> str:
     if not contact_name:
-        return "[Name]"
-    return contact_name.split()[0]
+        return "Hi,"
+    return f"Hi {contact_name.split()[0]},"
 
 
 def subject_for(segment: str, service_angle: str) -> str:
@@ -33,7 +33,7 @@ def subject_for(segment: str, service_angle: str) -> str:
 
 
 def message_for(row: dict[str, str]) -> str:
-    name = first_name(clean(row.get("contact_name")))
+    greeting = salutation(clean(row.get("contact_name")))
     company = clean(row.get("company")) or "your team"
     segment = clean(row.get("segment"))
     signal = clean(row.get("public_signal")) or clean(row.get("custom_opening_line")) or "your client work"
@@ -43,7 +43,7 @@ def message_for(row: dict[str, str]) -> str:
     text = f"{segment} {angle}".lower()
 
     if "shopify" in text:
-        body = f"""Hi {name},
+        body = f"""{greeting}
 
 {opening_line}
 
@@ -53,7 +53,7 @@ If you ever have overflow work, I can start with a small paid test task so you c
 
 Would it be useful if I sent 2-3 short examples of the kind of work I can support?"""
     elif any(word in text for word in ["zapier", "make", "airtable", "automation"]):
-        body = f"""Hi {name},
+        body = f"""{greeting}
 
 {opening_line}
 
@@ -63,7 +63,7 @@ If you ever have implementation overflow, I can start with a small paid test tas
 
 Would you like me to send a few short examples?"""
     else:
-        body = f"""Hi {name},
+        body = f"""{greeting}
 
 {opening_line}
 

@@ -10,7 +10,7 @@
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw your Shopify profile mentions product and collection setup plus migration work.
 
@@ -54,7 +54,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw Ruby Digital focuses on complex Shopify replatforming and store migration.
 
@@ -76,7 +76,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw Migraciones.io specializes in Shopify migrations with large SKU volumes and ERP/B2B integrations.
 
@@ -98,9 +98,9 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
-I saw GTL works on Shopify migrations app integration and importing store product data.
+I saw GTL works on Shopify migrations, app integration, and importing store product data.
 
 I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
 
@@ -120,7 +120,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw Storefix has completed many Shopify migrations and store builds including product organization.
 
@@ -142,9 +142,9 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
-I saw SLASHCART specializes in Shopify migrations that include products customers orders and reviews.
+I saw SLASHCART specializes in Shopify migrations that include products, customers, orders, and reviews.
 
 I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
 
@@ -164,9 +164,9 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
-I saw ECOMZIER works on complex Shopify migrations including B2B wholesale and POS data.
+I saw ECOMZIER works on complex Shopify migrations including B2B, wholesale, and POS data.
 
 I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
 
@@ -188,7 +188,7 @@ Subject: Async implementation support for automation projects
 
 Hi Prem,
 
-I saw Nex Automations works across Make Zapier Shopify Airtable Google Sheets webhooks and API integrations.
+I saw Nex Automations works across Make, Zapier, Shopify, Airtable, Google Sheets, webhooks, and API integrations.
 
 I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
 
@@ -208,9 +208,9 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
-I saw Operative works on Make automations and custom API integrations across Shopify Webflow Airtable Typeform and Stripe.
+I saw Operative works on Make automations and custom API integrations across Shopify, Webflow, Airtable, Typeform, and Stripe.
 
 I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
 
@@ -230,9 +230,9 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
-I saw The Automation Partner builds Make-based automation ecosystems connecting Shopify HubSpot Salesforce NetSuite and more.
+I saw The Automation Partner builds Make-based automation ecosystems connecting Shopify, HubSpot, Salesforce, NetSuite, and more.
 
 I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
 
@@ -252,9 +252,9 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
-I saw Seamless Automation handles Zapier APIs webhooks app connectors AI automation and Shopify/CRM workflows.
+I saw Seamless Automation handles Zapier APIs, webhooks, app connectors, AI automation, and Shopify/CRM workflows.
 
 I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
 
@@ -276,7 +276,7 @@ Subject: Async implementation support for automation projects
 
 Hi Miguel,
 
-I saw Alltomate offers automation consulting Zapier workflows integrations and automation audits.
+I saw Alltomate offers automation consulting, Zapier workflows, integrations, and automation audits.
 
 I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
 
@@ -296,9 +296,9 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
-I saw Docabyte integrates automation tools CRM systems and AI-powered agents alongside Webflow development.
+I saw Docabyte integrates automation tools, CRM systems, and AI-powered agents alongside Webflow development.
 
 I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
 
@@ -318,9 +318,9 @@ Would you like me to send a few short examples?
 
 Subject: Small automation support for agency client work
 
-Hi [Name],
+Hi,
 
-I saw Wavespace published a CRM/customer analytics dashboard template aimed at sales lead management customer support and automation.
+I saw Wavespace published a CRM/customer analytics dashboard template aimed at sales, lead management, customer support, and automation.
 
 I am a China-based developer helping small agencies with async implementation work: form-to-sheet cleanup, CRM data preparation, recurring reports, small API scripts, and FAQ/support assistant prototypes.
 
@@ -362,7 +362,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw Okas Concepts provides complete Shopify store setup plus custom app development and testing services.
 
@@ -384,7 +384,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw Webman Technologies works on Shopify product and collection setup, migrations, and custom product/collection pages.
 
@@ -406,7 +406,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw Carbon Creative works on Shopify product and collection setup plus custom apps and integrations.
 
@@ -428,7 +428,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw PlanetX works on Shopify migrations, product and collection setup, troubleshooting, and custom integrations.
 
@@ -472,7 +472,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw W3trends works on Shopify migrations, product and collection setup, and custom website/application development.
 
@@ -516,7 +516,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw ThePlanetSoft handles Shopify migrations that transfer products, customers, orders, pages, and SEO data.
 
@@ -538,7 +538,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Extra async help for Shopify product data cleanup
 
-Hi [Name],
+Hi,
 
 I saw Meghbalika Tech offers Shopify product and collection setup, product organization, filters, and migration product data transfer.
 
@@ -560,7 +560,7 @@ Would it be useful if I sent 2-3 short examples of the kind of work I can suppor
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
 I saw Value Added Tech works across HubSpot, Shopify, Salesforce, Airtable, Google Analytics, and Make migrations.
 
@@ -582,7 +582,7 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
 I saw Groww Stacks works across Shopify, Google Suite, Zoho, CRM automation, Airtable, WooCommerce, and Stripe workflows.
 
@@ -604,7 +604,7 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
 I saw Wiseflow works on Make custom apps and automations across Stripe, QuickBooks, Google apps, Jotform, and many SaaS tools.
 
@@ -626,7 +626,7 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
 I saw NEODELTA is a tech freelancer collective working on automation, SaaS products, API connections, Make integrations, and scenario fixes.
 
@@ -648,7 +648,7 @@ Would you like me to send a few short examples?
 
 Subject: Async implementation support for automation projects
 
-Hi [Name],
+Hi,
 
 I saw Codex Solutions International works on Make automation, webhooks, Webflow, WooCommerce, Shopify, WordPress, Google Forms, Stripe, and Zoho.
 
