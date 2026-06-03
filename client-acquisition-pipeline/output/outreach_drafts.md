@@ -1,49 +1,5 @@
 # Outreach Drafts
 
-## Startup Hub - Design & Technology LLC
-
-- Lead ID: L0101
-- Segment: Shopify agency
-- Score: 86
-- Website: https://www.shopify.com/partners/directory/partner/home-based-ecommerce-2
-- Contact route: https://www.shopify.com/partners/directory/partner/home-based-ecommerce-2
-
-Subject: Extra async help for Shopify product data cleanup
-
-Hi,
-
-I saw your Shopify profile mentions product and collection setup plus migration work.
-
-I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
-
-If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
-
-Would it be useful if I sent 2-3 short examples of the kind of work I can support?
-
----
-
-## StoreMindz
-
-- Lead ID: L0102
-- Segment: Shopify agency
-- Score: 84
-- Website: https://storemindz.com
-- Contact route: https://storemindz.com
-
-Subject: Extra async help for Shopify product data cleanup
-
-Hi Abdul,
-
-I saw StoreMindz handles Shopify migrations and also mentions app and script review.
-
-I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
-
-If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
-
-Would it be useful if I sent 2-3 short examples of the kind of work I can support?
-
----
-
 ## Ruby Digital Agency
 
 - Lead ID: L0103
@@ -57,28 +13,6 @@ Subject: Extra async help for Shopify product data cleanup
 Hi,
 
 I saw Ruby Digital focuses on complex Shopify replatforming and store migration.
-
-I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
-
-If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
-
-Would it be useful if I sent 2-3 short examples of the kind of work I can support?
-
----
-
-## Migraciones.io
-
-- Lead ID: L0104
-- Segment: Shopify agency
-- Score: 82
-- Website: https://migraciones.io
-- Contact route: https://migraciones.io
-
-Subject: Extra async help for Shopify product data cleanup
-
-Hi,
-
-I saw Migraciones.io specializes in Shopify migrations with large SKU volumes and ERP/B2B integrations.
 
 I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
 
@@ -679,5 +613,379 @@ I am a China-based developer who can support automation consultants with async i
 If you ever have implementation overflow, I can start with a small paid test task. Written requirements are best for me, and I can send clean files plus a short handoff note.
 
 Would you like me to send a few short examples?
+
+---
+
+## One10 Developers
+
+- Lead ID: L0132
+- Segment: Shopify agency
+- Score: 87
+- Website: https://www.shopify.com/partners/directory/partner/one10developers/
+- Contact route: https://www.shopify.com/partners/directory/partner/one10developers/
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw One10 Developers works on Shopify store design, redesign, migration, product and collection setup, theme customization, and custom integrations.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## VK & Co. Tech
+
+- Lead ID: L0133
+- Segment: Shopify agency
+- Score: 84
+- Website: https://vkco.tech
+- Contact route: https://www.shopify.com/partners/directory/partner/veeren
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw VK & Co. Tech works on Shopify custom development, migrations, app integrations, store optimization, and ongoing support.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## SM Web Designers
+
+- Lead ID: L0134
+- Segment: Shopify agency
+- Score: 85
+- Website: https://www.shopify.com/partners/directory/partner/sm-web-designers/
+- Contact route: https://www.shopify.com/partners/directory/partner/sm-web-designers/
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw SM Web Designers offers Shopify product and collection setup, product uploads, image handling, inventory edits, and product page sections.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## Q&A Creative
+
+- Lead ID: L0135
+- Segment: Shopify agency
+- Score: 82
+- Website: https://qnacreative.com
+- Contact route: https://www.shopify.com/partners/directory/partner/qacreative
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi Ritchie,
+
+I saw Q&A Creative handles Shopify builds, migrations, product and collection setup, troubleshooting, and custom integrations.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## Loudr
+
+- Lead ID: L0136
+- Segment: Shopify agency
+- Score: 81
+- Website: https://loudr.agency
+- Contact route: https://www.shopify.com/partners/directory/partner/blm3
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw Loudr lists Shopify product setup, migrations, ongoing website management, and featured work involving inventory system integration.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## Unified Pixel
+
+- Lead ID: L0137
+- Segment: Shopify agency
+- Score: 80
+- Website: https://unifiedpixel.com
+- Contact route: https://www.shopify.com/partners/directory/partner/ecom_leads
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw Unified Pixel works on Shopify custom development, POS migrations, ERP integrations, and migrating products, customers, gift cards, and images.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## eCommerce Experts
+
+- Lead ID: L0138
+- Segment: Shopify agency
+- Score: 80
+- Website: https://ecommerceexperts.co.za
+- Contact route: https://www.shopify.com/partners/directory/partner/app-developer-studio/
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw eCommerce Experts works on Shopify product and collection setup, store migrations, settings configuration, and theme customization.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## Vebtech
+
+- Lead ID: L0139
+- Segment: Shopify agency
+- Score: 78
+- Website: https://vebtech.ca
+- Contact route: https://www.shopify.com/partners/directory/partner/vebtech-ltd/
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw Vebtech handles Shopify builds, redesigns, migrations, product/customer data imports, pages, shipping, taxes, and admin setup.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## Insider Media Group
+
+- Lead ID: L0140
+- Segment: Shopify agency
+- Score: 76
+- Website: https://insidermedia.com.au
+- Contact route: https://www.shopify.com/partners/directory/partner/insider-media-group
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw Insider Media Group handles Shopify migrations, product and collection setup, full database imports, product/customer transfers, and custom product pages.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## Brandpa
+
+- Lead ID: L0141
+- Segment: Shopify agency
+- Score: 76
+- Website: https://yourbrandpa.com
+- Contact route: https://www.shopify.com/partners/directory/partner/brandpa
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi Arslan,
+
+I saw Brandpa works with DTC brands and SMEs on Shopify setup, migrations, app development, integrations, and performance marketing.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
+
+---
+
+## Cloudy Automation
+
+- Lead ID: L0142
+- Segment: Make automation consultant
+- Score: 76
+- Website: https://cloudyautomation.com
+- Contact route: https://www.make.com/en/partners-directory/cloudy-automation
+
+Subject: Async implementation support for automation projects
+
+Hi,
+
+I saw Cloudy Automation works across Airtable, Bubble, ClickUp, Google Workspace, Monday.com, Salesforce, Shopify, and digital transformation automation.
+
+I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
+
+If you ever have implementation overflow, I can start with a small paid test task. Written requirements are best for me, and I can send clean files plus a short handoff note.
+
+Would you like me to send a few short examples?
+
+---
+
+## 4 Spot Marketing
+
+- Lead ID: L0143
+- Segment: Make automation consultant
+- Score: 83
+- Website: https://4spotconsulting.com
+- Contact route: https://www.make.com/en/partners-directory/4-spot-marketing
+
+Subject: Async implementation support for automation projects
+
+Hi,
+
+I saw 4 Spot Marketing provides automation services for small and medium businesses and works with Shopify, WooCommerce, WordPress, QuickBooks, Salesforce, Stripe, and Dropbox.
+
+I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
+
+If you ever have implementation overflow, I can start with a small paid test task. Written requirements are best for me, and I can send clean files plus a short handoff note.
+
+Would you like me to send a few short examples?
+
+---
+
+## IOA Digital
+
+- Lead ID: L0144
+- Segment: Make automation consultant
+- Score: 79
+- Website: https://ioadigital.com
+- Contact route: https://www.make.com/en/partners-directory/ioa-digital/
+
+Subject: Async implementation support for automation projects
+
+Hi,
+
+I saw IOA Digital focuses on building and maintaining automations across Airtable, HubSpot CRM, Salesforce, and Shopify.
+
+I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
+
+If you ever have implementation overflow, I can start with a small paid test task. Written requirements are best for me, and I can send clean files plus a short handoff note.
+
+Would you like me to send a few short examples?
+
+---
+
+## T4dt GmbH
+
+- Lead ID: L0145
+- Segment: Make automation consultant
+- Score: 82
+- Website: https://t4dt.com
+- Contact route: https://www.make.com/en/partners-directory/t4dt-gmbh
+
+Subject: Async implementation support for automation projects
+
+Hi,
+
+I saw T4dt comes from e-commerce retail and works on custom software and automation around Shopify, OpenAI, Notion, Asana, and Zendesk.
+
+I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
+
+If you ever have implementation overflow, I can start with a small paid test task. Written requirements are best for me, and I can send clean files plus a short handoff note.
+
+Would you like me to send a few short examples?
+
+---
+
+## Uptime Bots Adam Debski
+
+- Lead ID: L0146
+- Segment: Make automation consultant
+- Score: 82
+- Website: https://www.linkedin.com/in/adam-debski
+- Contact route: https://www.make.com/en/partners-directory/uptime-bots-adam-debski/
+
+Subject: Async implementation support for automation projects
+
+Hi Adam,
+
+I saw Uptime Bots works on e-commerce, customer support, and lead-generation automation across Shopify, WooCommerce, HubSpot, Freshdesk, Google Sheets, and Manychat.
+
+I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
+
+If you ever have implementation overflow, I can start with a small paid test task. Written requirements are best for me, and I can send clean files plus a short handoff note.
+
+Would you like me to send a few short examples?
+
+---
+
+## Chek Creative
+
+- Lead ID: L0147
+- Segment: Make automation consultant
+- Score: 75
+- Website: https://chekcreative.com
+- Contact route: https://www.make.com/en/partners-directory/chek-creative
+
+Subject: Async implementation support for automation projects
+
+Hi,
+
+I saw Chek Creative builds websites, e-commerce shops, and digital platforms, and also offers workflow automation and migrations to Make.
+
+I am a China-based developer who can support automation consultants with async implementation tasks: API scripts, webhook helpers, CSV cleanup, Google Sheets workflows, and client handoff notes.
+
+If you ever have implementation overflow, I can start with a small paid test task. Written requirements are best for me, and I can send clean files plus a short handoff note.
+
+Would you like me to send a few short examples?
+
+---
+
+## & Love
+
+- Lead ID: L0148
+- Segment: Shopify agency
+- Score: 72
+- Website: https://andlove.ca
+- Contact route: https://www.shopify.com/partners/directory/partner/andlove/
+
+Subject: Extra async help for Shopify product data cleanup
+
+Hi,
+
+I saw & Love builds and supports Shopify stores with product and collection setup, third-party apps, custom features, checkout optimization, and data/content migration.
+
+I am a China-based developer helping small agencies with async implementation work: product CSV cleanup, supplier catalog normalization, Shopify import-ready files, bulk edit workflows, and small scripts.
+
+If you ever have overflow work, I can start with a small paid test task so you can check quality, turnaround, and written communication before committing to anything larger.
+
+Would it be useful if I sent 2-3 short examples of the kind of work I can support?
 
 ---

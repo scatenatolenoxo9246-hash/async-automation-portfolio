@@ -23,6 +23,27 @@ BATCHES = {
         "L0126",
         "L0130",
     ],
+    "send_batch_03_20260603.md": [
+        "L0132",
+        "L0134",
+        "L0133",
+        "L0135",
+        "L0136",
+        "L0137",
+        "L0138",
+        "L0139",
+        "L0140",
+        "L0141",
+    ],
+    "send_batch_04_20260603.md": [
+        "L0143",
+        "L0145",
+        "L0146",
+        "L0144",
+        "L0142",
+        "L0147",
+        "L0148",
+    ],
 }
 
 
@@ -74,7 +95,7 @@ def write_batch(filename: str, lead_ids: list[str]) -> None:
         "",
         f"Current batch status: {contacted_count} contacted, {pending_count} not contacted.",
         "",
-        "Recommended use: send only leads whose `Current status` is `not_contacted`, up to 5 messages per day. Keep the rest for tomorrow or after replies.",
+        "Recommended use: send only leads whose `Current status` is `not_contacted`, around 5-10 messages per day while the inbox is new. Keep the rest for tomorrow or after replies.",
         "",
         "After sending any lead, update `lead_tracker.csv`:",
         "",

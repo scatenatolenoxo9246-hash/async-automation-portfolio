@@ -8,8 +8,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CHECK_FILES = [
     ROOT / "output" / "outreach_drafts.md",
-    ROOT / "send_batch_01_20260603.md",
-    ROOT / "send_batch_02_20260603.md",
+    *sorted(ROOT.glob("send_batch_*.md")),
 ]
 
 FORBIDDEN_PATTERNS = [
