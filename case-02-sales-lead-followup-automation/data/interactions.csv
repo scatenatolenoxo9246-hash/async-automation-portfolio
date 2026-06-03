@@ -1,0 +1,9 @@
+lead_id,last_touch_date,last_touch_type,last_message_summary,reply_sentiment,next_meeting_date
+L001,2026-05-27,email,Asked if we can handle Shopify bulk cleanup for two client stores,positive,
+L002,2026-05-23,email,Requested a sample inventory dashboard before discussing budget,neutral,
+L003,2026-05-18,call,Liked the reporting automation idea and asked for a fixed-price proposal,positive,2026-06-03
+L004,2026-05-26,email,Shared a broken CSV export and asked whether cleanup is possible,positive,
+L005,2026-05-20,email,Needs overflow help but wants to test communication first,positive,
+L006,2026-05-15,form,Asked whether a simple FAQ assistant can work without changing their website,neutral,
+L007,2026-05-11,email,Interested but did not reply after pricing range was shared,cold,
+L008,2026-05-22,email,Asked for examples of before and after product data cleanup,neutral,

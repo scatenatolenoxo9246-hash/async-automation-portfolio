@@ -1,0 +1,9 @@
+lead_id,company,contact_name,email,industry,team_size,country,source,pain_point,budget_range,stage,created_at
+L001,Northstar Shopify Studio,Ava Miller,ava@northstarstudio.example,shopify agency,8,United States,LinkedIn,overflow product data cleanup,500-2000,qualified,2026-05-07
+L002,PeakTrail Gear,Daniel Brooks,daniel@peaktrail.example,ecommerce,14,Canada,website form,manual inventory report,300-1000,new,2026-05-22
+L003,BrightDesk Consulting,Sarah Chen,sarah@brightdesk.example,consulting,5,Australia,referral,client reporting takes too long,1000-3000,proposal,2026-04-30
+L004,Casa Verde Decor,Lucia Rossi,lucia@casaverde.example,ecommerce,3,Italy,cold email,shopify csv import errors,100-500,new,2026-05-25
+L005,FlowPilot Automation,Ethan Ward,ethan@flowpilot.example,automation agency,6,United Kingdom,LinkedIn,needs async developer capacity,1000-5000,qualified,2026-05-05
+L006,LocalSmile Dental,Emma Wilson,emma@localsmile.example,local services,22,United States,website form,faq and appointment questions,300-1000,new,2026-05-14
+L007,UrbanNest Realty,Michael Lee,michael@urbannest.example,real estate,18,Singapore,referral,lead follow-up inconsistent,500-2000,qualified,2026-05-02
+L008,GreenLeaf Supplements,Olivia Martin,olivia@greenleaf.example,ecommerce,11,United States,cold email,product descriptions and data cleanup,500-2000,new,2026-05-21

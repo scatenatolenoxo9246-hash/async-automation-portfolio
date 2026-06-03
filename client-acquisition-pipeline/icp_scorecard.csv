@@ -1,0 +1,8 @@
+criterion,max_points,how_to_score,good_signal,bad_signal
+Segment fit,20,20 for Shopify/automation/website agency; 12 for ecommerce/SaaS; 6 for unrelated small business,Agency sells Shopify/Zapier/Make/Airtable/Webflow/CRM services,Enterprise company or unrelated consumer site
+Team size,15,15 for 2-30 people; 10 for 31-80; 3 for large enterprise,Small team with founder/operator visible,Large corporate with procurement process
+Public pain signal,20,20 if site mentions migrations/data/automation/client ops; 10 if inferred; 0 if no signal,Services include data migration/catalog setup/reporting/CRM automation,No clear operational or technical need
+Contactability,15,15 direct email/contact form/LinkedIn owner; 8 generic form; 0 no route,Founder email or contact page available,No contact route
+Outsourcing likelihood,15,15 if agency/freelancer/partner model; 8 if service business; 0 if product-only company,Small agency with multiple client services,Strict hiring-only page
+Activity freshness,10,10 recent blog/cases/social activity; 5 updated site; 0 dormant,Recent case studies or active LinkedIn,Dead website or stale profiles
+Budget likelihood,5,5 sells B2B/client services; 2 low-ticket local service; 0 hobby site,Agency or B2B service pricing,No commercial signal

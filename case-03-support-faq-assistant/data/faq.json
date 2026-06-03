@@ -1,0 +1,44 @@
+[
+  {
+    "id": "shipping-times",
+    "category": "Shipping",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery usually takes 3-7 business days. Express delivery is available for selected locations and typically arrives in 1-3 business days.",
+    "keywords": ["shipping", "delivery", "arrival", "express", "standard", "days"]
+  },
+  {
+    "id": "returns",
+    "category": "Returns",
+    "question": "Can I return an item?",
+    "answer": "Unused items can be returned within 30 days. The product should be in original condition with packaging included. Final-sale items are not eligible for return.",
+    "keywords": ["return", "refund", "exchange", "unused", "30 days", "final sale"]
+  },
+  {
+    "id": "size-guide",
+    "category": "Product",
+    "question": "How do I choose the right size?",
+    "answer": "Use the size chart on each product page and compare it with your actual measurements. If you are between two sizes, choose the larger size for a relaxed fit.",
+    "keywords": ["size", "fit", "measurement", "chart", "large", "small"]
+  },
+  {
+    "id": "bulk-orders",
+    "category": "Sales",
+    "question": "Do you support bulk orders?",
+    "answer": "Yes. Bulk orders are available for selected products. Please share the product name, quantity, delivery country, and target delivery date so the team can prepare a quote.",
+    "keywords": ["bulk", "wholesale", "quantity", "quote", "b2b", "large order"]
+  },
+  {
+    "id": "appointment",
+    "category": "Booking",
+    "question": "How can I book an appointment?",
+    "answer": "You can book an appointment through the booking form or by sending your preferred date, time, service type, and contact details. The team will confirm availability.",
+    "keywords": ["appointment", "booking", "schedule", "service", "time", "date"]
+  },
+  {
+    "id": "order-change",
+    "category": "Orders",
+    "question": "Can I change my order after purchase?",
+    "answer": "Order changes are possible before fulfillment begins. Please contact support as soon as possible with your order number and the change you need.",
+    "keywords": ["order", "change", "modify", "purchase", "fulfillment", "order number"]
+  }
+]
